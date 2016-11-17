@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Blog entry #2
 layout: post
 author: rowan.kaplan
 permalink: /untitled-document/
