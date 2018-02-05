@@ -1,5 +1,5 @@
 ---
-title: Blog 1 - Getting To Know The Fuze Box.
+title: Blog 3, Getting Closer to Be Able to Use the Robot Arms 
 layout: post
 author: rowan.kaplan
 permalink: /untitled-document/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Fuze Box Lesson</td>
+    <td>Lesson 3</td>
     <td></td>
-    <td>16/01/18</td>
+    <td>5/2/18</td>
   </tr>
 </table>
 
@@ -19,16 +19,16 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We were making a start at coding our Fuze boxes.</td>
+    <td>Working through the Fuze Box book.</td>
   </tr>
   <tr>
     <td>Goal:</td>
-    <td>To make a good start on our coding</td>
+    <td>To get on to the physical part of the coding.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>We got a good way through our coding.</td>
+    <td>We are now closer to being able to use the flashing lights and Robot Arms.</td>
   </tr>
 </table>
 
@@ -41,20 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>We had to be careful, and make sure that all the characters were correct. If all the characters were right, it would always work, so we knew that we had done something wrong it would always be because we entered a wrong character. We stayed vigilant of this and we were fine!</td>
+    <td>I learned that always giving clear and understandable instructions, meant that we completed the task much more quickly and that we were more efficient when doing aforementioned task. We are very close now to getting on to using the flashing lights. A few more tasks and we will be on to them, which I definitely feel ready for!</td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I need to be more accepting to other people's ideas, sometimes I wrote off others ideas as wrong straight away because I didn't agree with it. I need to be more careful when it comes to denying other people's ideas because they’re sometimes right!</td>
+    <td>The things that limited our learning were that we sometimes miscommunicated the instructions that we had to do. A certain time I realised we had missed out an exercise and we had to go back and do it all over again.  It is mistakes like these that I will try my hardest to avoid in the future.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will always think before saying something, checking that it is necessary to what we are learning, and that it helps other people and myself.
-</td>
+    <td>I will make sure me and my partner are both on track and that we weren't getting distracted by other members of the class. We also need to make sure that we are always doing the right task and that we don't miss any important information from the teacher.  </td>
   </tr>
 </table>
 
