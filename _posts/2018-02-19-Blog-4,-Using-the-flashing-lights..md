@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Blog 4</td>
+    <td>Blog 4, working with the flashing lights.</td>
     <td>Date</td>
     <td>19/2/18</td>
   </tr>
