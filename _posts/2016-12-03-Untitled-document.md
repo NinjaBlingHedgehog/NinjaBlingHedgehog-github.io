@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Lesson 3</td>
+    <td>Lesson 3, getting closer to being able to use the Robot Arms  </td>
     <td></td>
     <td>5/2/18</td>
   </tr>
