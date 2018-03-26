@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Blog 8 - Getting the flashing lights to work
 layout: post
 author: rowan.kaplan
 permalink: /untitled-document/
