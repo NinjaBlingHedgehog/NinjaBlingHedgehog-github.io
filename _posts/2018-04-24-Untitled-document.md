@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Blog 1 - First Time Using Python
 layout: post
 author: rowan.kaplan
 permalink: /untitled-document/
